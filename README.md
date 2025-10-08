@@ -27,7 +27,7 @@ Supports **English, French, and Chinese** with smart normalization, character co
 
 ## 🚀 Try It Online
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-streamlit-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nlp-file-converter.streamlit.app/)
 
 > 🔜 *Deploy your own instance using Streamlit Community Cloud (free!)*
 

@@ -29,11 +29,9 @@ Supports **English, French, and Chinese** with smart normalization, character co
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nlp-file-converter.streamlit.app/)
 
-> 🔜 *Deploy your own instance using Streamlit Community Cloud (free!)*
-
 ## 🛠️ Local Setup
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/nlp-file-converter.git
+   git clone https://github.com/lihsianghsu/nlp-file-converter.git
    cd nlp-file-converter

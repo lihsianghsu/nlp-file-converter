@@ -93,7 +93,7 @@ def parse_sdltm(file_obj, normalize=True, convert_zh_chars=False):
         if 'source_text' in df.columns:
             df.rename(columns={'source_text': 'source_segment', 'target_text': 'target_segment'}, inplace=True)
 
-        # Apply your cleaning
+        # Apply cleaning
         df['source_text'] = df['source_segment'].astype(str).apply(clean_segment_text).apply(remove_trailing_lang_code)
         df['target_text'] = df['target_segment'].astype(str).apply(clean_segment_text).apply(remove_trailing_lang_code)
         df = df.drop(columns=['source_segment', 'target_segment'])

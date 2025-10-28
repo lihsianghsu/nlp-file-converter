@@ -4,3 +4,4 @@ lxml>=4.9.0
 opencc-python-reimplemented>=0.1.7
 spacy>=3.7.0
 xlsxwriter>=3.2.0
+openpyxl
